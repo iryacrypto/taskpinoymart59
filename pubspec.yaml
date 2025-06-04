@@ -1,4 +1,4 @@
-name: sixam_mart
+name: TaskPinoyMart59
 description: A Multi-vendor1 Food. Grocery, eCommerce, Pharmacy & Parcel service.
 publish_to: 'none' #
 version: 1.0.0+1
@@ -7,13 +7,6 @@ environment:
   sdk: '>=3.2.0 <4.0.0'
 
 dependencies:
-  flutter_launcher_icons: ^0.13.1
-
-flutter_icons:
-  android: true
-  ios: true
-  image_path: "assets/icon/app_icon.png"
-
   flutter:
     sdk: flutter
 
